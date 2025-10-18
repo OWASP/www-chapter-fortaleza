@@ -1,0 +1,28 @@
+leaders:
+  - name: Cristiano Henrique dos Santos
+    email: cristiano.santos@owasp.org
+    github: cristianovisk
+  - name: Diego Ferreira Andrade
+    email: diego.andrade@owasp.org
+  - name: Raniel Cavalcante de Sousa
+    email: raniel.sousa@owasp.org
+  - name: Victor Pasknel de Alencar Ribeiro
+    email: victor.pasknel@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Ceará
+  city: Fortaleza
+  latitude: -3.7304512
+  longitude: -38.5217989
+meetup_group: owasp-fortaleza
+name: OWASP Fortaleza
+repositories:
+  - name: www-chapter-fortaleza
+    url: https://github.com/OWASP/www-chapter-fortaleza
+    description: OWASP Foundation Web Repository
+tags:
+  - meeting-tag
+  - slides-tag
+  - custom-tag-1
+website: https://owasp.org/www-chapter-fortaleza
